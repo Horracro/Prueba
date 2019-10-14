@@ -1,4 +1,24 @@
 #holi{
  color: rgb(17, 86, 175);
- border: 1cm;
+ border: 1px solid green;
 }
+#react{
+    display: block;
+    margin:auto;
+
+    }
+#shrk{
+    display: inline;
+    text-align: left;
+    height: 300px;
+}    
+
+#love{
+    font-family: cursive;
+    color:rgb(56, 78, 23);
+    text-align: center;
+}
+body {
+   
+    background-color: #cccccc;
+   }
